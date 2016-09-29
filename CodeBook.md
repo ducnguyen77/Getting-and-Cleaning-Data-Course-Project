@@ -2,13 +2,13 @@ Code book
 
 this code book descripts the data and variables in tidy.txt
 
-1. Identifies
+I. Identifies
 
 subject - the ID of the test subject
 
 activity - type of activities
 
-2. Activities
+II. Activities
 
 WALKING (value 1): subject was walking during the test
 
@@ -23,7 +23,7 @@ STANDING (value 5): subject was standing during the test
 LAYING (value 6): subject was laying down during the test
 
 
-3. Mean and the standard deviation measurements
+III. Mean and the standard deviation measurements
 
 tBodyAccMeanX
 
