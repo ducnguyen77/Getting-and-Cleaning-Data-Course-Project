@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
-- first step is to download and unzip the data file.
+- the first step is to download and unzip the data file.
 1. Load and merge the training and test data sets to create one data set loading the training data
 2. Extract only the measurements on the mean and standard deviation for each measurement
 3. Use descriptive activity names to name the activities in the data set
