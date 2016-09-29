@@ -1,5 +1,6 @@
 Code book
 this code book descripts the data and variables in tidy.txt
+
 1. Identifies
 
 subject - the ID of the test subject
